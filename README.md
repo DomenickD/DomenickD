@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Domenick Dobbs
-- 👀 I’m interested in programming, gardening, and dogs. Simple enough, right?
-- 🌱 I’m currently learning TensorFlow and PySpark, and R.
-- 💞️ I’m looking to collaborate on anything with Natural Language Processing. I really like how it all works!
+- 👀 I am a Data Analyst who loves making things and solving puzzles!
+- 🌱 I’m currently learning reinforcment learning as well as advanced software design.
+- 💞️ I’m looking to collaborate or mentor anyone on anything DATA.
 - 📫 How to reach me domenick.dobbs@gmail.com
 
 <!---
