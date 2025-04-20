@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Domenick Dobbs
+- 👋 Hi, I’m Domenick Dobbs! People call me "Dobby".
 - 👀 I am a Data Analyst who loves making things and solving puzzles!
 - 🌱 I’m currently learning reinforcment learning as well as advanced software design.
 - 💞️ I’m looking to collaborate or mentor anyone on anything DATA.
